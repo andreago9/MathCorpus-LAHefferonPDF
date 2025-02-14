@@ -7,8 +7,12 @@ A directory to collect corpora obtained from the book
 available with a license at [Jim Hefferon GitHub repository](https://gitlab.com/jim.hefferon/linear-algebra/-/tree/master). 
 These corpora are gathered at the request of 
 [Valeria de Paiva](https://vcvpaiva.github.io/) to be used in experiments 
-extracting mathematical concepts for the [Topos Institute](https://topos.institute/), 
-according to the **Job Description** below.
+extracting mathematical concepts for the [Topos Institute](https://topos.institute/).
+
+Another such corpus, dealing with Abstract Algebra Theory and Applications by Thomas Judson  can be found at https://github.com/andreago9/MathCorpus-AATA.
+
+Both books are recommended by the Open Source book initiative of AIM (American Institute of Mathematics)
+
 
 **Note**: This process did not follow the Universal Dependencies script, but instead 
 applied **spaCy** in Python to collect the relevant statistics.
